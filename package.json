@@ -1,0 +1,25 @@
+{
+  "name": "digimonwebscraper",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aesthetic-Justice/DigimonWebScraper.git"
+  },
+  "author": "Aesthetic-Justice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aesthetic-Justice/DigimonWebScraper/issues"
+  },
+  "homepage": "https://github.com/Aesthetic-Justice/DigimonWebScraper#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "node-fetch": "^2.7.0"
+  }
+}
